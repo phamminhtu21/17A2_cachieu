@@ -1,0 +1,24 @@
+- Bài 1: 
+a) b) chưa đọc kí yêu cầu đề bài
+c) số lượng các số nhập vào ở đoạn code chưa chính xác
+Điểm bài tập: 1.0
+
+- Bài 2: 
+a) đúng
+b) đúng
+c) đúng
+Điểm bài tập: 3.0
+
+- Bài 3: đúng
+Điểm bài tập: 1.0 
+
+- Bài 4: không có code nhưng có ảnh kết quả?
+Điểm bài tập: 0
+
+- Bài 5: sử dụng kiến thức ngoài kiến thức đã học ở các lab
+Điểm bài tập: 0.75
+
+- Bài 6: đúng
+Điểm bài tập: 1.0 
+
+Tổng điểm bài tập lab 4: 6.75
